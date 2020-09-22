@@ -6,7 +6,7 @@ I'm a software developer with an interest in developer-friendly code, exploring 
 ## My work 👷‍♀️
 
 - Working full-time at IronSight Technologies in Edmonton, Alberta
-- Maintaining [YEGrb.com](http://www.yegrb.com)
+- Maintaining [YEGrb.com](http://www.yegrb.com) and co-organizing the Edmonton Ruby Meetup
 - Puttering around on some project or another (as I write this: mentoring my code-newbie life partner while she explores a career change to software development)
 
 ## Currently learning 📚
