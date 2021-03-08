@@ -12,8 +12,8 @@ I'm a software developer with an interest in developer-friendly code, exploring 
 ## Currently learning 📚
 *Subject to being very out of date!*
 
-- Functional programming ([Programming Elixir 1.6](https://pragprog.com/titles/elixir16/programming-elixir-1-6/) by Dave Thomas)
-- Up next: better refactoring ([Refactoring: Improving the Design of Existing Code](https://www.chapters.indigo.ca/en-ca/books/refactoring-improving-the-design-of/9780134757599-item.html) by Martin Fowler) with the [#dev-books](https://devedmonton-invite.herokuapp.com/) book club
+- Rails app optimization ([The Complete Guide to Rails Performance](https://www.railsspeed.com/) by Nate Berkopec)
+- TBD!
 
 ## Contact me 📫
 
