@@ -7,7 +7,7 @@ I'm a software developer with an interest in developer-friendly code, exploring 
 
 - Working full-time at Vertical City in Edmonton, Alberta
 - Maintaining [YEGrb.com](http://www.yegrb.com) and co-organizing the Edmonton Ruby Meetup
-- Puttering around on some project or another (as I write this: mentoring my code-newbie life partner while she explores a career change to software development)
+- Puttering around on some project or another (as I write this: building a tailored Discord bot in Python for an online community)
 
 ## Currently learning 📚
 *Subject to being very out of date!*
