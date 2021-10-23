@@ -1,7 +1,7 @@
 # Hi! I'm Kelsey 😀
 Pronouns: she/her
 
-I'm a software developer with an interest in developer-friendly code, exploring different ways of approaching familiar problems, and open-source technology. For two years, I volunteer co-organized [YEGrb](http://www.yegrb.com), Edmonton's Ruby meetup, and I've recently stepped down to free up time to focus on social progress and activism.
+I'm a software developer with an interest in developer-friendly code, exploring different ways of approaching familiar problems, and open-source technology. For two years, I volunteer co-organized [YEGrb](http://www.yegrb.com), Edmonton's Ruby meetup, and I've recently stepped down to free up time to decompress and re-assess.
 
 ## My work 👷‍♀️
 
@@ -20,4 +20,4 @@ with Ruby on Rails](https://sustainable-rails.com/) by David Bryant Copeland)
 
 - 🏢 On [LinkedIn](https://www.linkedin.com/in/kelseygabriel/)
 - 👩‍💻 On the [Dev Edmonton Society](https://devedmonton.com/) Slack group
-- 🏳️‍🌈 Always interested in offering time toward socialist or LGBT-focused projects!
+- 🏳️‍🌈 Always interested in offering time toward socially progressive or LGBT-focused projects!
