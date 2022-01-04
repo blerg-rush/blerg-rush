@@ -12,9 +12,8 @@ I'm a software developer with an interest in developer-friendly code, exploring 
 ## Currently learning 📚
 *Subject to being very out of date!*
 
-- Building sustainable Rails apps ([Sustainable Web Development
-with Ruby on Rails](https://sustainable-rails.com/) by David Bryant Copeland)
-- TBD!
+- Design Patterns ([Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/) by Eric Freeman and Elisabeth Robson)
+- Playing with [Hotwire](https://hotwired.dev/) in Rails 7 (🔥)
 
 ## Contact me 📫
 
