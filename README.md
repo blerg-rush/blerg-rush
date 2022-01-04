@@ -12,7 +12,7 @@ I'm a software developer with an interest in developer-friendly code, exploring 
 ## Currently learning 📚
 *Subject to being very out of date!*
 
-- Design Patterns ([Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/) by Eric Freeman and Elisabeth Robson)
+- OOP design patterns ([Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/) by Eric Freeman and Elisabeth Robson)
 - Playing with [Hotwire](https://hotwired.dev/) in Rails 7 (🔥)
 
 ## Contact me 📫
