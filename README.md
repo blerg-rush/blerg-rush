@@ -5,7 +5,7 @@ I'm a software developer with an interest in developer-friendly code, exploring 
 
 ## My work 👷‍♀️
 
-- Working full-time at Vertical City in Edmonton, Alberta
+- Working full-time at Muck Rack
 - Puttering around on some project or another
 - (former) Maintaining [YEGrb.com](http://www.yegrb.com) and co-organizing the Edmonton Ruby Meetup
 
