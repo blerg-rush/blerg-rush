@@ -1,13 +1,13 @@
 # Hi! I'm Kelsey 😀
 Pronouns: she/her
 
-I'm a software developer with an interest in developer-friendly code, exploring different ways of approaching familiar problems, and open-source technology. For two years, I volunteer co-organized [YEGrb](http://www.yegrb.com), Edmonton's Ruby meetup, and I've recently stepped down to free up time to decompress and re-assess.
+I'm a software developer with an interest in developer-friendly code, exploring different ways of approaching familiar problems, and open-source technology. For two years, I volunteer co-organized YEGrb, Edmonton's Ruby meetup, and I've recently stepped down to free up time to decompress and re-assess.
 
 ## My work 👷‍♀️
 
 - Working full-time at Muck Rack
 - Puttering around on some project or another
-- (former) Maintaining [YEGrb.com](http://www.yegrb.com) and co-organizing the Edmonton Ruby Meetup
+- (former) Maintaining YEGrb.com and co-organizing the Edmonton Ruby Meetup
 
 ## Currently learning 📚
 *Subject to being very out of date!*
