@@ -1,7 +1,7 @@
 # Hi! I'm Kelsey 😀
 Pronouns: she/her
 
-I'm a software developer with an interest in developer-friendly code, exploring different ways of approaching familiar problems, and open-source technology. For two years, I volunteer co-organized YEGrb, Edmonton's Ruby meetup, and I've recently stepped down to free up time to decompress and re-assess.
+I'm a software developer with an interest in developer-friendly code and ethical software development.
 
 ## My work 👷‍♀️
 
@@ -12,8 +12,8 @@ I'm a software developer with an interest in developer-friendly code, exploring 
 ## Currently learning 📚
 *Subject to being very out of date!*
 
-- Poking around with Django
-- OOP design patterns ([Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/) by Eric Freeman and Elisabeth Robson)
+- Streaming technologies
+- Maintaining a sustainable pace to avoid burning myself out 😮‍💨
 
 ## Contact me 📫
 
